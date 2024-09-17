@@ -1,0 +1,5 @@
+#古いコードの一部をoldCodesに保存してgit管理しない
+oldCodes/
+
+#DB接続コードをgit管理しない
+db_access_X29.php
